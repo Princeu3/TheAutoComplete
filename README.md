@@ -1,5 +1,5 @@
-# AI Quick Fill
-AI Quick Fill is a Chrome extension that provides AI-powered autocompletion for text fields on web pages. It uses GPT-4-turbo to suggest relevant completions as you type.
+# TheAutoComplete
+TheAutoComplete is a Chrome extension that provides AI-powered autocompletion for text fields on web pages. It uses GPT-4-turbo to suggest relevant completions as you type.
 
 ## Features
 + Get AI-generated suggestions as you type in text fields on any web page;
@@ -21,7 +21,7 @@ The extension will pass your text, plus the content of the web page, to the AI t
 
 You can build the extension from source:
 
-+ Clone this GitHub repository or download the extension from https://github.com/bakaburg1/AiQuickFill/releases;
++ Clone this GitHub repository or download the extension from https://github.com/Princeu3/TheAutoComplete/releases;
 + Go to chrome://extensions in Chrome;
 + Enable "Developer mode";
 + Click "Load unpacked" and select the repository folder.
